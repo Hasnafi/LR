@@ -1,7 +1,7 @@
 # Linear regression
 In this notebook, we created a linear regression model represented by the equation:
 
-                                                        f(w, b)(x) = wx + b
+                                            f(w, b)(x) = wx + b
 To make our model fit our data well, we needed to find the best values for w and b.
 
 We used a cost function J(w, b) to measure how well the model fits the data. The goal was to minimize this cost function by adjusting w and b.
